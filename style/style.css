@@ -5,15 +5,6 @@
     
 }
 
-#navbar {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 10px;
-    margin: 5px;
-    justify-content: space-around;
-    width: 40%;
-    font-size: 1.2rem;
-}
 
 body {
     background-color: white;
@@ -36,9 +27,7 @@ a {
     color: black;
 }
 
-.navbar {
-    background:linear-gradient(#0080FF, #00BFFF)
-}
+
 li:hover {
     transition: .5s;
     scale: 1.25;
@@ -89,11 +78,8 @@ section {
     display: flex;
 }
 
-#principal {
-    display: flex;
-    justify-content: space-evenly;
-    margin: 10px;
-}
+
+
 
 img {
     width: 300px;
@@ -102,9 +88,3 @@ img {
     border-radius: 10px;
 }
 
-footer {
-    position: fixed;
-    bottom: 0;
-    background: linear-gradient(#00BFFF, #0080FF);
-    padding: 10px;
-}
