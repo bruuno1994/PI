@@ -87,10 +87,14 @@ section {
     display: flex;
 }
 
+img .fig1 {
+    height=150px;
+    width=150px;
+   
+}
 
 
-
-img {
+.carousel img {
     width: 300px;
     height: 500px;
     object-fit: cover;
