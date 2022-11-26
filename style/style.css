@@ -15,7 +15,11 @@ text-align: left;
 h2, h3 {
     text-align: center;
 }
+.footer-clean{
+    background:linear-gradient(#43c4f0,#37cef0);
+ 
 
+}
 span {
     font-weight: bold;
 }
@@ -37,7 +41,12 @@ li:hover {
     transition: .5s;
     scale: 1.25;
 }
+.conf {
+    border: 1px solid rgb(59, 138, 202);
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px grey;
 
+}
 a:hover {
     color:white;
     transition: 1.25s;
@@ -86,13 +95,6 @@ section {
 .icons {
     display: flex;
 }
-
-img .fig1 {
-    height=150px;
-    width=150px;
-   
-}
-
 
 .carousel img {
     width: 300px;
