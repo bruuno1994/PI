@@ -159,3 +159,9 @@ button:hover {
     scale: 1.25;
 }
 
+.conteudo {
+    justify-content: justify;
+    margin: 10px;
+    padding: 5px;
+}
+
